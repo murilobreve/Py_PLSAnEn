@@ -1,6 +1,8 @@
-# Weather Data Analysis with Partial Least Squares Regression
+![image](https://github.com/murilobreve/Py_PLSAnEn/assets/68515365/5c3b5d56-9146-4c6b-a200-12e4296c5081)# Weather Data Analysis with Partial Least Squares Regression
 
 This code provides a systematic approach to handling and analyzing large-scale weather datasets stored in the `.nc` format.
+
+![image](https://github.com/murilobreve/Py_PLSAnEn/assets/68515365/768c629e-10cf-4ac8-8a23-05c9dd1f0ad5)
 
 ## Table of Contents
 
