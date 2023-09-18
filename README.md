@@ -2,7 +2,7 @@
 
 This code provides a systematic approach to handling and analyzing large-scale weather datasets stored in the `.nc` format.
 
-<img src="https://github.com/murilobreve/Py_PLSAnEn/assets/68515365/768c629e-10cf-4ac8-8a23-05c9dd1f0ad5" width="200">
+<img src="https://github.com/murilobreve/Py_PLSAnEn/assets/68515365/768c629e-10cf-4ac8-8a23-05c9dd1f0ad5" width="500">
 
 ## Table of Contents
 
