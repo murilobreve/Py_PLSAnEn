@@ -20,6 +20,7 @@ k = 3
 folder_path = '/Users/Murilo/weather_data'
 netCDF_resolution = 1
 
+# Start
 all_dataframes = {}  # This dictionary will store DataFrames for each nc file
 
 nc_files = [f for f in os.listdir(folder_path) if f.endswith('.nc')]
@@ -171,3 +172,5 @@ n_jobs = 8  # This will use all CPU cores. Adjust as needed.
 similar_rows = Parallel(n_jobs=n_jobs)(delayed(find_most_similar)(row) for row in tqdm(Y_pred_np))
 
 Y_pred['most_similar_row_in_Y_analogues'] = similar_rows
+
+# End
