@@ -8,11 +8,7 @@ This code provides a systematic approach to handling and analyzing large-scale w
 - [Execution Overview](#execution-overview)
 - [Steps](#steps)
   - [Configuration](#configuration)
-  - [Data Loading and Processing](#data-loading-and-processing)
-  - [Time Validation](#time-validation)
-  - [Data Splitting and PLS Regression](#data-splitting-and-pls-regression)
-  - [Parallel Computation](#parallel-computation)
-
+ 
 ## Prerequisites
 
 Ensure you have the following Python packages installed:
@@ -50,3 +46,5 @@ predict_variable = 'WSPDchyv2_2011_2019'
 k = 3
 folder_path = '/Users/Murilo/weather_data'
 netCDF_resolution = 1
+
+
